@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    border: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;    
+    padding-left:15px;
+}
+
+ul li.right a{
+    float: right;
+    padding-right: 15px;
+}
+
+
+li a, li button{
+    color: #000;
+    display: inline-table;
+    padding-top:15px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.sign_in{
+    float: right;
+    margin: 20px;
+    margin-left:10px;
+  background-color: #4683ea;
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 10%;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.google_img img{
+    position: relative;
+    height: 100px;
+    width: auto;
+    padding-top: 90px;
+    margin-left: 38%;
+    display: inline-block;
+}
+
+.navbar input{
+    position: relative;
+    text-align: left;
+    width: 525;
+    height: 40;
+    display: inline-block;
+    margin-left: 30%;
+    margin-top: 30px;
+    border-radius: 15px;
+    padding-bottom: -15px;
+    padding-left: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#bottom1,#bottom2{
+    margin:10px;
+    padding-left:16px;
+    padding-right:16px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 11px;
+    margin-bottom: 110px;
+    border-radius: 4px;
+    color: #5F6368;
+    line-height: 27px;
+    height: 36px;
+    text-align: center;
+}
+
+#bottom1{
+    margin-left: 40%;
+}
+
+ul.down a{
+    margin: 0px;
+    padding:0px;
+    border: 0px;
+   
+}
+
+footer{
+    margin: 0px;
+    padding-right:90px;
+    padding-bottom: 20px;
+    position: fixed;
+    background: #f2f2f2;
+}
+
